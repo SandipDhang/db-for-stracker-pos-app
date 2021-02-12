@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sandip Dhang",
+      "userName": "sandip",
+      "password": "sandip",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Niharika Mittal",
+      "userName": "niharika",
+      "password": "niharika",
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "name": "Naina Agrawal",
+      "userName": "naina",
+      "password": "naina",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "name": "Sandy Dhang",
+      "userName": "sandy",
+      "password": "sandy",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Rice",
+      "category": "Main Course",
+      "qtyInStock": 50,
+      "unit": "KG",
+      "alternateUnit": "grm"
+    },
+    {
+      "id": 2,
+      "name": "Bread",
+      "category": "Main Course",
+      "qtyInStock": 50,
+      "unit": "packs",
+      "alternateUnit": "pcs"
+    },
+    {
+      "id": 3,
+      "name": "Soda",
+      "category": "Starter",
+      "qtyInStock": 50,
+      "unit": "ltr",
+      "alternateUnit": "mililtr"
+    },
+    {
+      "id": 4,
+      "name": "cream",
+      "category": "Dessert",
+      "qtyInStock": 50,
+      "unit": "KG",
+      "alternateUnit": "grm"
+    }
+  ],
+  "purchase": [],
+  "sale": [],
+  "vendors": [
+    {
+      "id": 1,
+      "name": "Amit Dutta",
+      "company": "Bread & Butter Pvt Ltd",
+      "address": "211/211A Unknown Street",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pinCode": 380009
+    },
+    {
+      "id": 2,
+      "name": "Ashok Dhang",
+      "company": "Peanuts & Jam Pvt Ltd",
+      "address": "26, CLM Road",
+      "city": "Howrah",
+      "state": "West Bengal",
+      "pinCode": 711107
+    }
+  ]
+}
